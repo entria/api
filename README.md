@@ -1,5 +1,7 @@
 # API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/entria/api.svg)](https://greenkeeper.io/)
+
 ## Install
 
 yarn add @entria/api
